@@ -1,0 +1,3 @@
+# Databricks .csv downloader function
+
+This function will generate a download URL for a spark DataFrame created in databricks and saved within its FileStore. 
